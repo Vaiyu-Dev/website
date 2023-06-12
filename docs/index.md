@@ -3,8 +3,8 @@
 We empower organizations to build responsible AI solutions.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaiyu-Dev/website/blob/709789eacb064a4a021eb3f41d85c8f4c9a39ac2/docs/intro_dark.gif">
- <img alt="Light mode." src="https://github.com/Vaiyu-Dev/website/blob/709789eacb064a4a021eb3f41d85c8f4c9a39ac2/docs/intro.gif">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaiyu-Dev/website/main/docs/intro_dark.gif">
+ <img alt="Light mode." src="https://raw.githubusercontent.com/Vaiyu-Dev/website/main/docs/intro.gif">
 </picture>
 
 ## Contact
